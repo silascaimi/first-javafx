@@ -10,3 +10,7 @@
 	Configure > Create module-info.java
 - Add required modules to module-infor.java
 ```requires transitive javafx.controls;```
+
+- In order to import maven projects, its necessary add libraries manually to maven dependencies
+Run Configuraration > Java Application > {Application_name}
+Click on tab Dependencies and add external jars to Modulepath Entries
