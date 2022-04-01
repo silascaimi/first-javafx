@@ -1,4 +1,4 @@
-# learning-javafx
+# first-javafx
 
 - Download javafx [https://openjfx.io/](https://openjfx.io/)
 - Intall e(fx)clipse plugin
